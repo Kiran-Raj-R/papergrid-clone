@@ -167,6 +167,7 @@ footer{
     background: white;
     border-radius: 8px;
     margin-top: 30px;
+    cursor: pointer;
 }
 
 .footer-end{
