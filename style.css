@@ -80,6 +80,7 @@ header{
     width: 370px;
     flex-wrap: wrap;
     height: 350px;
+    cursor: pointer;
 }
 .section1{
     padding-top: 150px;
@@ -135,6 +136,7 @@ header{
     width: 135px;
     height: 50px;
     font-size: 18px;
+    cursor: pointer;
 }
 /* Main End */
 
